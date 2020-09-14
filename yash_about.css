@@ -1,0 +1,142 @@
+
+
+footer {
+    background-color: lightgrey;
+
+    
+}
+#heading {
+    padding-top: 3%;
+    text-align: center;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+#bgo {
+    padding: 5%;
+   
+    background-color: rgba(247, 241, 241, 0.836);
+    
+}
+#img-6 {
+    padding: 5%;
+}
+.year {
+    max-width: 200px;
+    max-height: 200px;
+
+}
+#Navbar{
+ 
+    font-size: 20px;
+   
+  
+}
+.fa-chevron-up { 
+    background-color: white ;
+    display: block;
+    margin : 0px 48.5% 0px;
+    
+
+}
+.tab-content {
+    font-size: 27px;
+
+}
+
+#heading {
+    font-size: 30px;
+}
+#hackerrank p {
+    font-size: 22px;   
+}
+#tab {
+    font-size: 15px;
+}
+
+.well-aboutme {
+    font-size: 40px;
+}
+#card {
+    padding-bottom: 10%;
+}
+#aboutme {
+    padding: 10%;
+    text-align: center;
+}
+
+/*----media queries----*/
+
+@media  screen and ( max-width : 1199px){
+
+    .tab-content {
+       font-size: 27px;
+   }
+   #heading, .well-aboutme{
+    font-size: 30px;
+   } 
+   #hackerrank p {
+    font-size: 22px;
+    }
+    #tab {
+        font-size: 15px;
+    }
+
+
+  
+}
+
+
+@media only screen and ( max-width : 991px){
+    .tab-content  {
+       font-size: 22px;
+   }
+   #heading , .well-aboutme{
+    font-size: 25px;
+   } 
+   #hackerrank p {
+    font-size: 20px;
+   }
+   #tab {
+    font-size: 12px;
+   }
+
+
+}
+@media only screen and ( max-width : 768px){
+    .tab-content  {
+       font-size: 12px;
+   }
+   #heading, .well-aboutme{
+    font-size: 25px;
+   }
+    #hackerrank p {
+    font-size: 22px;
+    }
+    #tab {
+        font-size: 22px;
+    }
+
+
+
+  
+}
+@media only screen and ( max-width : 575px){
+    .tab-content  {
+       font-size: 15px;
+   }
+   #heading, .well-aboutme{
+    font-size: 18px;
+   } 
+   #hackerrank p {
+    font-size: 15px;
+    }
+    #tab {
+        font-size: 15px;
+    }
+
+
+}

@@ -1,0 +1,108 @@
+#social {
+    display : inline-flex;
+}
+
+#main {
+    padding-top: 3%;
+   
+}
+.submain {
+    padding-right: 0px;
+    padding-top: 5%;
+}
+.main-img {padding-right: 20px;
+
+
+}
+#Navbar{
+ 
+    font-size: 20px;
+   
+  
+  }
+.java {
+    padding: 5%;
+    text-align: left;
+    
+}
+
+#photoshop {
+    padding : 3%;
+}
+footer {
+    background-color: lightgrey;
+}
+.card {
+    text-align: center;
+}
+#heading {
+    font-size: 30px;
+}
+.why-java {
+    font-size: 60px;
+    text-align: center;
+} 
+#photoshop {
+    font-size: 40px;
+    text-align: center;
+
+}
+
+/*----media queries----*/
+
+@media  screen and ( max-width : 1199px){
+
+    #heading {
+       font-size: 30px;
+   }
+   .why-java {
+    font-size: 60px;
+
+    } 
+    #photoshop {
+        font-size: 40px;
+    }
+
+}
+
+
+@media only screen and ( max-width : 991px){
+    #heading {
+       font-size: 27px;
+   }
+   .why-java {
+    font-size: 40px;
+
+   } 
+   #photoshop {
+    font-size: 30px;
+ }
+
+}
+@media only screen and ( max-width : 768px){
+    #heading {
+       font-size: 25px;
+   }
+   .why-java {
+    font-size: 40px;
+    padding-top: 15%;
+
+  } 
+  #photoshop {
+    font-size: 250px;
+  }
+  
+}
+@media only screen and ( max-width : 575px){
+   #heading {
+       font-size: 20px;
+   }
+   .why-java {
+    font-size: 40px;
+    padding-top: 15%;
+
+  } 
+  #photoshop {
+    font-size: 20px;
+ }  
+}

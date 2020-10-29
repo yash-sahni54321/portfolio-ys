@@ -14,6 +14,11 @@
 }
 .work-container {
     padding-bottom: 5em;
+    
+
+}
+.space {
+    padding-top: 8%;
 
 }
 
@@ -21,8 +26,11 @@
 
 
 
+
 #work {
-    padding-top: 5%;
+    padding-top: 15%;
+    padding-bottom: 3%;
+  
 }
 footer {
     background-color: lightgrey;
